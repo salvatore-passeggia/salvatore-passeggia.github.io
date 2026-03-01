@@ -36,7 +36,7 @@
 ---
 
 ## 🎯 Career Objective
-Seeking **senior security engineering roles in Switzerland** (particularly Ticino region) where I can leverage my extensive banking sector experience to contribute to organizational security while embracing new challenges in an international environment.
+Seeking **senior security engineering roles in Italy/Europe** where I can leverage my extensive banking sector experience to contribute to organizational security while embracing new challenges in an international environment.
 
 ## 📁 Portfolio Projects
 ### **🌐 Online Portfolio**
@@ -55,7 +55,7 @@ Seeking **senior security engineering roles in Switzerland** (particularly Ticin
 ## 📫 Contact & Information
 
 - **📍 Location:** Italy
-- **🎯 Target Region:** Switzerland (Ticino)
+- **🎯 Target Region:** Italy/Europe
 - **📧 Email:** passeggias@gmail.com
 - **💼 Status:** Open to senior security engineering opportunities
 - **📅 Experience:** 15+ years in banking sector security
